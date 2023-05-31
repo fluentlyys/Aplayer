@@ -1,0 +1,66 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  list-style: none;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+body {
+  background-size: 100%;
+  background-image: url(https://phonoteka.org/uploads/posts/2021-05/1620661227_19-phonoteka_org-p-chyornii-fon-s-nadpisyu-na-angliiskom-20.jpg);
+}
+
+.card-1 {
+  background: linear-gradient(to left, #2e2e2e, #7a7a7a);
+  width: 300px;
+  height: 350px;
+  padding-top: 30px;
+  border-radius: 20px;
+  margin-left: 70px;
+  margin-top: 15px;
+  display: inline-block;
+}
+.card-1__img {
+  width: 175px;
+}
+.card-1__name {
+  color: aliceblue;
+  font-size: 18px;
+  font-family: "Pangolin", cursive;
+  margin: 15px 0;
+}
+.card-1__music {
+  width: 290px;
+}
+.card-2 {
+  background: linear-gradient(to bottom, #2e2e2e, #7a7a7a);
+  width: 300px;
+  height: 350px;
+  padding-top: 30px;
+  border-radius: 20px;
+  margin-left: 400px;
+  display: inline-block;
+}
+
+.card-3 {
+  background: linear-gradient(to right, #2e2e2e, #7a7a7a);
+  width: 300px;
+  height: 350px;
+  padding-top: 30px;
+  border-radius: 20px;
+  margin-left: 400px;
+  display: inline-block;
+}
+
+.card-4 {
+  background: linear-gradient(to top left, #2e2e2e, #7a7a7a);
+  width: 300px;
+  height: 350px;
+  padding-top: 30px;
+  border-radius: 20px;
+  margin-left: 450px;
+  display: inline-block;
+}
