@@ -17,23 +17,23 @@ body {
   background-color: #fff;
 }
 .header__body {
-  width: 1200px;
+  width: 1450px;
   height: 80px;
   margin: 0 auto;
 }
 .header__logo {
   width: 75px;
   border-radius: 60px;
-  margin-left: 50px;
+  margin-left: 40px;
 }
 .header__nav {
-  width: 500px;
+  width: 800px;
   height: 80px;
-  margin-left: 300px;
+  margin: 0 auto;
 }
 .header__nav li {
   display: inline-block;
-  margin: 25px 40px;
+  margin: 25px 90px;
 }
 
 .header__nav a {
